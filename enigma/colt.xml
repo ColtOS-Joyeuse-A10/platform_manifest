@@ -55,6 +55,7 @@
     <project path="frameworks/hardware/interfaces" name="platform_frameworks_hardware_interfaces" remote="colt" />
     <project path="frameworks/native" name="platform_frameworks_native" remote="colt" />
     <project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="colt" />
+    <project path="frameworks/opt/net/voip" name="platform_frameworks_opt_net_voip" remote="colt" />
     <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" remote="colt" />
     <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="colt" />
 
@@ -84,6 +85,7 @@
     <project path="packages/apps/Updater" name="platform_packages_apps_Updater" remote="colt" revision="c10" />
     <project path="packages/apps/WallpaperPicker2" name="platform_packages_apps_WallpaperPicker2" remote="colt" />
     <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" remote="colt" />
+    <project path="packages/modules/NetworkStack" name="platform_packages_modules_NetworkStack" remote="colt" />
     <project path="packages/providers/CalendarProvider" name="platform_packages_providers_CalendarProvider" remote="colt" />
     <project path="packages/providers/ContactsProvider" name="platform_packages_providers_ContactsProvider" remote="colt" />
     <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="colt" />
@@ -99,6 +101,7 @@
     <!-- System Repos -->
     <project path="system/bt" name="platform_system_bt" remote="colt" />
     <project path="system/core" name="platform_system_core" remote="colt" />
+    <project path="system/libfmq" name="platform_system_libfmq" remote="colt" />
     <project path="system/netd" name="platform_system_netd" remote="colt" />
     <project path="system/sepolicy" name="platform_system_sepolicy" remote="colt" />
     <project path="system/vold" name="platform_system_vold" remote="colt" />    

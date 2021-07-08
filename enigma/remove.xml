@@ -117,6 +117,7 @@
   <remove-project name="platform/frameworks/hardware/interfaces" />
   <remove-project name="platform/frameworks/opt/datetimepicker" />
   <remove-project name="platform/frameworks/opt/net/ims" />
+  <remove-project name="platform/frameworks/opt/net/voip" />
   <remove-project name="platform/frameworks/opt/net/wifi" />
   <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/frameworks/opt/timezonepicker" />
@@ -181,6 +182,7 @@
   <remove-project name="platform/packages/apps/UnifiedEmail" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
+  <remove-project name="platform/packages/modules/NetworkStack" />
   <remove-project name="platform/packages/modules/TestModule" />
   <remove-project name="platform/packages/providers/CalendarProvider" />
   <remove-project name="platform/packages/providers/ContactsProvider" />
@@ -212,6 +214,7 @@
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/hardware/interfaces" />
   <remove-project name="platform/system/keymaster" />
+  <remove-project name="platform/system/libfmq" />
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/nfc" />
   <remove-project name="platform/system/security" />
