@@ -46,6 +46,7 @@
     <project path="external/chromium-libpac" name="platform_external_chromium-libpac" remote="colt" />
     <project path="external/libavc" name="platform_external_libavc" remote="colt" />
     <project path="external/okhttp" name="platform_external_okhttp" remote="colt" />
+    <project path="external/sqlite" name="platform_external_sqlite" remote="colt" />
     <project path="external/tinycompress" name="platform_external_tinycompress" remote="colt" />
     <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" remote="colt" />
 
@@ -102,6 +103,7 @@
     <project path="system/bt" name="platform_system_bt" remote="colt" />
     <project path="system/core" name="platform_system_core" remote="colt" />
     <project path="system/libfmq" name="platform_system_libfmq" remote="colt" />
+    <project path="system/libhwbinder" name="platform_system_libhwbinder" remote="colt" />
     <project path="system/netd" name="platform_system_netd" remote="colt" />
     <project path="system/sepolicy" name="platform_system_sepolicy" remote="colt" />
     <project path="system/vold" name="platform_system_vold" remote="colt" />    
