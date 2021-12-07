@@ -48,6 +48,7 @@
     <project path="external/okhttp" name="platform_external_okhttp" remote="colt" />
     <project path="external/sqlite" name="platform_external_sqlite" remote="colt" />
     <project path="external/tinycompress" name="platform_external_tinycompress" remote="colt" />
+    <project path="external/tremolo" name="platform_external_tremolo" remote="colt" />
     <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" remote="colt" />
 
     <!-- Framework Repos -->
@@ -73,6 +74,7 @@
     <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" remote="colt" />
     <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" remote="colt" />
     <project path="packages/apps/ExactCalculator" name="platform_packages_apps_ExactCalculator" remote="colt" />
+    <project path="packages/apps/KeyChain" name="platform_packages_apps_KeyChain" remote="colt" />
     <project path="packages/apps/Messaging" name="platform_packages_apps_Messaging" remote="colt" />
     <project path="packages/apps/OmniSwitch" name="platform_packages_apps_OmniSwitch" remote="colt" />
     <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" remote="colt" />      
