@@ -46,6 +46,7 @@
     <project path="external/libavc" name="platform_external_libavc" remote="colt" />
     <project path="external/okhttp" name="platform_external_okhttp" remote="colt" />
     <project path="external/tinycompress" name="platform_external_tinycompress" remote="colt" />
+    <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" remote="colt" />
 
     <!-- Framework Repos -->
     <project path="frameworks/av" name="platform_frameworks_av" remote="colt" />
