@@ -43,6 +43,7 @@
     <!-- External Repos -->
     <project path="external/airbnb-lottie" name="platform_external_airbnb-lottie" remote="colt" />
     <project path="external/asus/stitchimage" name="platform_external_asus_stitchimage" remote="colt" />
+    <project path="external/libavc" name="platform_external_libavc" remote="colt" />
     <project path="external/tinycompress" name="platform_external_tinycompress" remote="colt" />
 
     <!-- Framework Repos -->
