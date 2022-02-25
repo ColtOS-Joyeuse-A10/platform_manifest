@@ -91,6 +91,7 @@
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/libtextclassifier" />
   <remove-project name="platform/external/mksh" />
+  <remove-project name="platform/external/okhttp" />
   <remove-project name="platform/external/openssh" />
   <remove-project name="platform/external/ppp" />
   <remove-project name="platform/external/python/asn1crypto" />
