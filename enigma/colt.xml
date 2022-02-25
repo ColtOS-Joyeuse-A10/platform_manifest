@@ -5,7 +5,7 @@
            fetch="https://github.com" />
 
   <remote  name="colt"
-           fetch="https://github.com/Colt-Enigma"
+           fetch="https://github.com/ColtOS-Joyeuse-A10"
            revision="refs/heads/c10" />
            
   <remote  name="colt-devices"
