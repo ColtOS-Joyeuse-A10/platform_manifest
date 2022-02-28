@@ -789,5 +789,6 @@
   <!-- Colt additions -->
   <include name="enigma/colt.xml" />
   <include name="enigma/lineage.xml" />
+  <include name="enigma/nad.xml" />
 
 </manifest>

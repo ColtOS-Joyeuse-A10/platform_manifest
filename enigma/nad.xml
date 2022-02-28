@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="gitlab" fetch="https://gitlab.com/" />
+  
+  <remote name="nad" fetch="https://github.com/NusantaraProjectQ/" revision="refs/heads/10" />
+
+  <remote name="wip" fetch="https://github.com/Nusantara-ROM/" revision="refs/heads/10" />
+
+  <project path="hardware/qcom-caf/sm8150/display" name="android_hardware_qcom_display" remote="wip" revision="10-sm8150" />
+  
+  <project path="vendor/pixelgapps" name="Genkzsz11/vendor_pixelgapps" remote="gitlab" revision="10" clone-depth="1" />
+
+</manifest>
